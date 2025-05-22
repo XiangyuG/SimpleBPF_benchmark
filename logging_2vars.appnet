@@ -1,0 +1,11 @@
+state:
+    temp: float
+    success: int
+init():
+    temp = 0
+    success = 0
+req(rpc):
+    temp = temp + (-0.11)
+    success = success + 12
+    temp = temp + (-0.15)
+    success = success + 1
