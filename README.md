@@ -1,2 +1,2 @@
 # SimpleBPF_benchmark
-Collect benchmarks for SimpleBPF
+Benchmarks for SimpleBPF
